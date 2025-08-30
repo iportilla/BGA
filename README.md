@@ -1,0 +1,2 @@
+# BGA
+Clase de IA 
